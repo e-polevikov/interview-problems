@@ -3,9 +3,9 @@
 #include <cassert>
 #include <ctime>
 
-#include "1/myxor.hpp"
-#include "2/polyeval.hpp"
-#include "3/rational.hpp"
+#include "../src/1/myxor.hpp"
+#include "../src/2/polyeval.hpp"
+#include "../src/3/rational.hpp"
 
 void test_myxor1() {
     size_t n = 5;
